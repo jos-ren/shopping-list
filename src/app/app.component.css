@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+  border: 1px solid red;
+}
+
+.column {
+    width: 100%;
+    border: 1px solid blue;
+}
